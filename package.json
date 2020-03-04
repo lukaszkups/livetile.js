@@ -1,0 +1,32 @@
+{
+  "name": "livetile",
+  "version": "1.0.0",
+  "description": "As simple as possible live tile implementation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszkups/livetile.js.git"
+  },
+  "keywords": [
+    "live",
+    "tile",
+    "live",
+    "tile",
+    "modern",
+    "ui",
+    "metro",
+    "ui",
+    "windows",
+    "windows",
+    "phone",
+    "wp",
+    "wp8",
+    "wp10"
+  ],
+  "author": "lukaszkups",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaszkups/livetile.js/issues"
+  },
+  "homepage": "https://github.com/lukaszkups/livetile.js#readme"
+}
