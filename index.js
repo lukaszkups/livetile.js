@@ -34,7 +34,8 @@ module.exports = (options) => {
             <div class="livetile__name">${lib.gui.name}</div>
             ${lib.unreadNotifications && lib.unreadNotifications.length ?
               '<div class="livetile__counter">' + lib.unreadNotifications.length + '</div>' : ''}
-          </div>`;
+          </div>`
+        };
         return lib;
       } else {
         throw new Error('Target has not been found in DOM tree');
