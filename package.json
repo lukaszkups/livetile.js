@@ -1,5 +1,5 @@
 {
-  "name": "livetile",
+  "name": "livetilejs",
   "version": "0.0.1",
   "description": "As simple as possible live tile implementation",
   "main": "index.js",
